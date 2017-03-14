@@ -1,0 +1,10 @@
+#ignore the main binary
+/demo
+
+
+#dont want the dependencies either - use glide to get them
+vendor
+.env
+.DS_Store
+/test
+.vscode
